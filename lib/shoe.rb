@@ -7,7 +7,7 @@ class Shoe
   end 
   
   def condition
-    puts ""
+    puts "cobble says that the shoe has been repaired"
   end 
   
 end 
