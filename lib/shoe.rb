@@ -8,6 +8,7 @@ class Shoe
   
   def cobble
     if @condition == "tattered"
+      @condition = new
     puts "cobble says that the shoe has been repaired"
     end 
     puts "Your shoe is as good as new!"
