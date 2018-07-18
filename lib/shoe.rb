@@ -6,8 +6,8 @@ class Shoe
     @brand = brand
   end 
   
-  def condition
-    if @condition == tattered
+  def cobble
+    if @condition == "tattered"
     puts "cobble says that the shoe has been repaired"
   end 
   
