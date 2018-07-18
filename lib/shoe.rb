@@ -7,7 +7,7 @@ class Shoe
   end 
   
   def condition
-    
+    puts ""
   end 
   
 end 
