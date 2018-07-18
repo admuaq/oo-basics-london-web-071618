@@ -9,7 +9,7 @@ class Shoe
   def cobble
     if @condition == "tattered"
     puts "cobble says that the shoe has been repaired"
-  end 
+    end 
   end 
   
 end 
