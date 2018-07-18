@@ -10,6 +10,7 @@ class Shoe
     if @condition == "tattered"
     puts "cobble says that the shoe has been repaired"
     end 
+    @condition = "new"
     puts "Your shoe is as good as new!"
   end 
   
